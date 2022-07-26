@@ -122,31 +122,31 @@ export default class Dashboard extends Component {
                                             </tfoot>
                                             <tbody>
                                             <tr>
-                                                <td>Tiger Nixon</td>
+                                                <td>Bao Nixon</td>
                                                 <td>System Architect</td>
                                                 <td>Edinburgh</td>
                                                 <td>61</td>
-                                                <td>2011/04/25</td>
+                                                <td>2019/04/25</td>
                                                 <td>$320,800</td>
                                             </tr>
                                             <tr>
-                                                <td>Garrett Winters</td>
+                                                <td>Anh Winters</td>
                                                 <td>Accountant</td>
                                                 <td>Tokyo</td>
                                                 <td>63</td>
-                                                <td>2011/07/25</td>
+                                                <td>2019/07/25</td>
                                                 <td>$170,750</td>
                                             </tr>
                                             <tr>
-                                                <td>Ashton Cox</td>
+                                                <td>An Cox</td>
                                                 <td>Junior Technical Author</td>
                                                 <td>San Francisco</td>
                                                 <td>66</td>
-                                                <td>2009/01/12</td>
+                                                <td>2021/01/12</td>
                                                 <td>$86,000</td>
                                             </tr>
                                             <tr>
-                                                <td>Cedric Kelly</td>
+                                                <td>Cuong Kelly</td>
                                                 <td>Senior Javascript Developer</td>
                                                 <td>Edinburgh</td>
                                                 <td>22</td>
@@ -154,27 +154,27 @@ export default class Dashboard extends Component {
                                                 <td>$433,060</td>
                                             </tr>
                                             <tr>
-                                                <td>Airi Satou</td>
+                                                <td>Thuy Satou</td>
                                                 <td>Accountant</td>
                                                 <td>Tokyo</td>
                                                 <td>33</td>
-                                                <td>2008/11/28</td>
+                                                <td>2018/11/28</td>
                                                 <td>$162,700</td>
                                             </tr>
                                             <tr>
-                                                <td>Brielle Williamson</td>
+                                                <td>Binh Williamson</td>
                                                 <td>Integration Specialist</td>
                                                 <td>New York</td>
                                                 <td>61</td>
-                                                <td>2012/12/02</td>
+                                                <td>2017/12/02</td>
                                                 <td>$372,000</td>
                                             </tr>
                                             <tr>
-                                                <td>Herrod Chandler</td>
+                                                <td>Herrod Kien</td>
                                                 <td>Sales Assistant</td>
                                                 <td>San Francisco</td>
                                                 <td>59</td>
-                                                <td>2012/08/06</td>
+                                                <td>2022/08/06</td>
                                                 <td>$137,500</td>
                                             </tr>
                                             <tr>
@@ -202,7 +202,7 @@ export default class Dashboard extends Component {
                                                 <td>$103,600</td>
                                             </tr>
                                             <tr>
-                                                <td>Jena Gaines</td>
+                                                <td>Jena Huynh</td>
                                                 <td>Office Manager</td>
                                                 <td>London</td>
                                                 <td>30</td>
@@ -554,7 +554,7 @@ export default class Dashboard extends Component {
                                                 <td>$86,500</td>
                                             </tr>
                                             <tr>
-                                                <td>Shad Decker</td>
+                                                <td>Johny Dang</td>
                                                 <td>Regional Director</td>
                                                 <td>Edinburgh</td>
                                                 <td>51</td>
@@ -570,7 +570,7 @@ export default class Dashboard extends Component {
                                                 <td>$183,000</td>
                                             </tr>
                                             <tr>
-                                                <td>Donna Snider</td>
+                                                <td>Bary Allen</td>
                                                 <td>Customer Support</td>
                                                 <td>New York</td>
                                                 <td>27</td>
